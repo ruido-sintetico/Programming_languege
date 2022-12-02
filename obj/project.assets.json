@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/s/seminar1/seminar1.csproj",
+      "projectUniqueName": "/run/media/s/files/projects GB/Знакомство с языками программирования/seminar1/seminar1.csproj",
       "projectName": "seminar1",
-      "projectPath": "/home/s/seminar1/seminar1.csproj",
+      "projectPath": "/run/media/s/files/projects GB/Знакомство с языками программирования/seminar1/seminar1.csproj",
       "packagesPath": "/home/s/.nuget/packages/",
-      "outputPath": "/home/s/seminar1/obj/",
+      "outputPath": "/run/media/s/files/projects GB/Знакомство с языками программирования/seminar1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/s/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.110/sdk/6.0.110/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.110/RuntimeIdentifierGraph.json"
       }
     }
   }
