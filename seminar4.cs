@@ -1,7 +1,5 @@
 ﻿// SEMINAR 4
 
-/*
-
 // Task 1
 // Напишите программу, которая принимает на вход число и выдаёт количество цифр в числе.
 
@@ -58,12 +56,8 @@ int CountDigit (int n) {
 
 // End of the method
 
-*/
-
 // Task 2
 // Напишите программу, которая принимает на вход число N и выдаёт произведение чисел от 1 до N.
-
-/*
 
 Console.WriteLine("Enter X");
 
@@ -110,12 +104,8 @@ double MultyplyFromOneToNumber (int number) {
 
 }
 
-*/
-
 // Task 3
 // Напишите программу, которая выводит массив из 8 элементов, заполненный нулями и единицами в случайном порядке.
-
-/*
 
 Random random = new Random ();
 int n = 8;
@@ -163,15 +153,11 @@ void PrintArray (int [] arr) {
     Console.WriteLine("");
 }
 
-*/
-
 // SEMINAR 3 HOMEWORK
 
 // Task 1
 // Напишите программу, которая принимает на вход два числа (A и B) и метод который возводит число A в натуральную степень B.
 // Задание должно быть выполнено в методе. В методе не должно быть вывода в консоль. Не использовать Math.Pow()
-
-/*
 
 bool isParsedN = int.TryParse(Console.ReadLine(), out int n);
 bool isParsedD = int.TryParse(Console.ReadLine(), out int d);
@@ -194,12 +180,8 @@ int Exponentiate (int n, int d) {
     return result;
 }
 
-*/
-
 // Task 2
 // Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
-
-/*
 
 Random random = new Random ();
 int number = random.Next(999999999);
@@ -238,8 +220,6 @@ int SumOfDigits (int n) {
     }
     return result;
 }
-
-*/
 
 // Task 3
 // Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран
