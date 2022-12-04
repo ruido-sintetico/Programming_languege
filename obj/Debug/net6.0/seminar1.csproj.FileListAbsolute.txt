@@ -13,3 +13,33 @@
 /home/s/seminar1/obj/Debug/net6.0/ref/seminar1.dll
 /home/s/seminar1/obj/Debug/net6.0/seminar1.pdb
 /home/s/seminar1/obj/Debug/net6.0/seminar1.genruntimeconfig.cache
+/run/media/s/files/projects GB/Знакомство с языками программирования/seminar1/bin/Debug/net6.0/seminar1
+/run/media/s/files/projects GB/Знакомство с языками программирования/seminar1/bin/Debug/net6.0/seminar1.deps.json
+/run/media/s/files/projects GB/Знакомство с языками программирования/seminar1/bin/Debug/net6.0/seminar1.runtimeconfig.json
+/run/media/s/files/projects GB/Знакомство с языками программирования/seminar1/bin/Debug/net6.0/seminar1.dll
+/run/media/s/files/projects GB/Знакомство с языками программирования/seminar1/bin/Debug/net6.0/ref/seminar1.dll
+/run/media/s/files/projects GB/Знакомство с языками программирования/seminar1/bin/Debug/net6.0/seminar1.pdb
+/run/media/s/files/projects GB/Знакомство с языками программирования/seminar1/obj/Debug/net6.0/seminar1.csproj.AssemblyReference.cache
+/run/media/s/files/projects GB/Знакомство с языками программирования/seminar1/obj/Debug/net6.0/seminar1.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/s/files/projects GB/Знакомство с языками программирования/seminar1/obj/Debug/net6.0/seminar1.AssemblyInfoInputs.cache
+/run/media/s/files/projects GB/Знакомство с языками программирования/seminar1/obj/Debug/net6.0/seminar1.AssemblyInfo.cs
+/run/media/s/files/projects GB/Знакомство с языками программирования/seminar1/obj/Debug/net6.0/seminar1.csproj.CoreCompileInputs.cache
+/run/media/s/files/projects GB/Знакомство с языками программирования/seminar1/obj/Debug/net6.0/seminar1.dll
+/run/media/s/files/projects GB/Знакомство с языками программирования/seminar1/obj/Debug/net6.0/ref/seminar1.dll
+/run/media/s/files/projects GB/Знакомство с языками программирования/seminar1/obj/Debug/net6.0/seminar1.pdb
+/run/media/s/files/projects GB/Знакомство с языками программирования/seminar1/obj/Debug/net6.0/seminar1.genruntimeconfig.cache
+/home/s/Документы/seminar/obj/Debug/net6.0/seminar1.csproj.AssemblyReference.cache
+/home/s/Документы/seminar/obj/Debug/net6.0/seminar1.GeneratedMSBuildEditorConfig.editorconfig
+/home/s/Документы/seminar/obj/Debug/net6.0/seminar1.AssemblyInfoInputs.cache
+/home/s/Документы/seminar/obj/Debug/net6.0/seminar1.AssemblyInfo.cs
+/home/s/Документы/seminar/obj/Debug/net6.0/seminar1.csproj.CoreCompileInputs.cache
+/home/s/Документы/seminar/obj/Debug/net6.0/seminar1.dll
+/home/s/Документы/seminar/obj/Debug/net6.0/ref/seminar1.dll
+/home/s/Документы/seminar/obj/Debug/net6.0/seminar1.pdb
+/home/s/Документы/seminar/bin/Debug/net6.0/seminar1
+/home/s/Документы/seminar/bin/Debug/net6.0/seminar1.deps.json
+/home/s/Документы/seminar/bin/Debug/net6.0/seminar1.runtimeconfig.json
+/home/s/Документы/seminar/bin/Debug/net6.0/seminar1.dll
+/home/s/Документы/seminar/bin/Debug/net6.0/ref/seminar1.dll
+/home/s/Документы/seminar/bin/Debug/net6.0/seminar1.pdb
+/home/s/Документы/seminar/obj/Debug/net6.0/seminar1.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/s/seminar1/seminar1.csproj": {}
+    "/home/s/Документы/seminar/seminar1.csproj": {}
   },
   "projects": {
-    "/home/s/seminar1/seminar1.csproj": {
+    "/home/s/Документы/seminar/seminar1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/s/seminar1/seminar1.csproj",
+        "projectUniqueName": "/home/s/Документы/seminar/seminar1.csproj",
         "projectName": "seminar1",
-        "projectPath": "/home/s/seminar1/seminar1.csproj",
+        "projectPath": "/home/s/Документы/seminar/seminar1.csproj",
         "packagesPath": "/home/s/.nuget/packages/",
-        "outputPath": "/home/s/seminar1/obj/",
+        "outputPath": "/home/s/Документы/seminar/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/s/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.110/sdk/6.0.110/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.110/RuntimeIdentifierGraph.json"
         }
       }
     }
